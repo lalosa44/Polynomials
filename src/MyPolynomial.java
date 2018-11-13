@@ -2,7 +2,9 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
+
 public class MyPolynomial {
+	//coment
 
 	private double[] coeffs;
 
@@ -29,5 +31,4 @@ public class MyPolynomial {
 		return coeffs[coeffs.length-1];
 		
 	}
-	
 }
